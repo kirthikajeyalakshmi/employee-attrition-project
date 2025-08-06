@@ -13,18 +13,12 @@ Predictions are generated using a Random Forest Classifier with an accuracy of *
 
 ## 🔧 Tech Stack
 
-| Category            | Technologies                              |
-|---------------------|-------------------------------------------|
-| Language            | Python                                    |
-| ML Library          | Scikit-learn (Random Forest)              |
-| Web Framework       | Streamlit                                 |
-| Data Handling       | Pandas, NumPy                              |
-| Visualization       | Matplotlib (optional)                     |
-| Model Persistence   | Joblib                                    |
-| Version Control     | Git, GitHub                               |
-
----
-
+- **Language:** Python  
+- **Machine Learning Library:** Scikit-learn (Random Forest)  
+- **Web Framework:** Streamlit  
+- **Data Processing:** Pandas, NumPy  
+- **Model Serialization:** Joblib  
+- **Version Control:** Git & GitHub  
 
 ---
 
