@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 # 3) Run the Streamlit application
 streamlit run app.py
-
+```
 
 🌐 Live Demo
 👉 Live App: https://employee-attrition-detection-htaffxe9vyvxyehqjbunpi.streamlit.app/
